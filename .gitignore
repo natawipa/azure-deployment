@@ -1,0 +1,9 @@
+# Kubernetes Secrets - DO NOT COMMIT
+mongo-secret.yaml
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
